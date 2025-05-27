@@ -12,7 +12,6 @@ Links to some useful stuff:
 - [Website/Blog](https://www.jameslingford.com)
 - [Curriculum Vitae](https://www.jameslingford.com/pdfs/CV_JamesLingford_shortened_March2025.pdf)
 - [Dotfiles](https://github.com/jlingford/.dotfiles) — my Linux config files
-- [Scripts](https://github.com/jlingford/scripts) — a random collection of scripts I frequently use in my work
 
 <!--
 **jlingford/jlingford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
